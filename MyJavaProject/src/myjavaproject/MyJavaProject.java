@@ -11,7 +11,7 @@ public class MyJavaProject {
     
     public static void main(String[] args) {
         System.out.println("Hello from MyJavaProject!");
-        
+        System.out.println("Random number: " + Math.random());
     }
     
 }
